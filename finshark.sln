@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "finshark", "finshark.csproj", "{857A2BBB-EB09-4D68-8CD7-E7FDEC91F418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{857A2BBB-EB09-4D68-8CD7-E7FDEC91F418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857A2BBB-EB09-4D68-8CD7-E7FDEC91F418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857A2BBB-EB09-4D68-8CD7-E7FDEC91F418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857A2BBB-EB09-4D68-8CD7-E7FDEC91F418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
